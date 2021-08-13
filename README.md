@@ -22,6 +22,11 @@ Simply clone the repository to get started:
 
     git clone https://github.com/lijandrew/ghpages-react-boilerplate.git
 
+
+Install dependencies
+
+    npm i
+
 ## Usage
 
 `npm start` - Starts the live-reload development server.  
