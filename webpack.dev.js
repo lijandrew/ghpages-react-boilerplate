@@ -21,7 +21,7 @@ module.exports = merge(common, {
         use: ["style-loader", "css-loader", "sass-loader"],
       },
       {
-        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        test: /\.(png|svg|jpg|jpeg|gif|mp3|mp4|mkv|mov|webm|avi|flv)$/i,
         type: "asset/resource",
         generator: {
           filename: "assets/[name][ext]",
