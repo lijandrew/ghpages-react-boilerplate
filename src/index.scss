@@ -1,0 +1,14 @@
+// CSS resets
+* {
+  margin: 0;
+  padding: 0;
+}
+
+// Fullscreen the React application
+html,
+body,
+#root,
+#root > div {
+  width: 100%;
+  height: 100%;
+}
