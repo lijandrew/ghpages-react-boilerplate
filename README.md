@@ -18,12 +18,12 @@ By building to `docs/` instead of a traditional build folder name like `dist/`, 
 
 ## Installation
 
-Simply clone the repository to get started:
+First, clone the repository:
 
     git clone https://github.com/lijandrew/ghpages-react-boilerplate.git
 
 
-Install dependencies
+Then, install dependencies:
 
     npm i
 
