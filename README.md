@@ -10,9 +10,9 @@
 
 ## About
 
-GitHub Pages allows users to host static webpages for the low price of free. While this is often used for project documentation and blogging, it is also a great place to host web applications that feature entirely clientside functionality, such as in-browser tools for file converting/manipulating, image editing (think Photopea), and content consumption (shameless plug: https://github.com/lijandrew/ame).
+GitHub Pages allows users to host static webpages for the low price of free. While this is often used for project documentation and blogging, it is also a great way to host web applications that feature entirely clientside functionality, such as in-browser tools for file converting/manipulating, image editing (think <a href="https://www.photopea.com/">Photopea</a>), and content consumption (<a href="https://github.com/lijandrew/ame">shameless plug</a>).
 
-This boilerplate provides a fully configured webpack project with React, Babel, and SCSS, along with separate development and production webpack configurations and a basic `src/` folder structure template. It also has the three essential npm scripts you need to start developing right away.
+This boilerplate provides a fully configured webpack project with React, Babel, and SCSS, along with separate development and production webpack configurations and a basic `src/` folder structure template. It also comes with some essential npm scripts so you can start developing right away.
 
 By building to `docs/` instead of a traditional build folder name like `dist/`, we take advantage of GitHub Page's option to host from `docs/` instead of `/`, keeping our code separate from the files we serve.
 
@@ -20,7 +20,7 @@ By building to `docs/` instead of a traditional build folder name like `dist/`, 
 
 Simply clone the repository to get started:
 
-    git clone https://github.com/lijandrew/ghpages-react-boilerplate.git your-project-name
+    git clone https://github.com/lijandrew/ghpages-react-boilerplate.git
 
 ## Usage
 
